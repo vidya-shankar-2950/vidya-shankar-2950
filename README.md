@@ -5,7 +5,7 @@
 💻 Aspiring Software Developer
 
 ## 🚀 About Me
-- 🌱 Currently learning C, Python and DSA.
+- 🌱 Currently learning Python,web technologyand DSA.
 - 💡 Interested in AI and Machine Learning.
 - 💻 Exploring Web Development.
 - 🎯 Preparing for internships and placements.
